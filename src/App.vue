@@ -55,7 +55,7 @@ export default {
         top:50%;left:50%;
         transform:translate(-50%,-50%);
         box-shadow:0 0 10px rgba(0,0,0,0.5);    border-radius:10px;padding:20px}
-        
+
   .fade-enter-from{opacity:0}
   .fade-enter-active{transition:0.5s}
   .fade-enter-to{opacity:1}
